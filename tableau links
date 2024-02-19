@@ -1,9 +1,12 @@
 The Tableau visualizations are hosted on Tableau Public and can be accessed using the following links:
 
-1. [Revenue Per State](https://public.tableau.com/views/Book1_17080577257040/RevenuePerState?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
-2. Worksheet 2:
-3. Worksheet 3:
-4. Worksheet 4:
-5. Worksheet 5:
-6. Worksheet 6:
-7. Worksheet 7:
+1. Worksheet 1: [Revenue Per State](https://public.tableau.com/views/Book1_17080577257040/RevenuePerState?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+2. Worksheet 2: [Month-wise Revenue](https://public.tableau.com/views/Book1_17080577257040/Month-wiseRvenue?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+3. Worksheet 3: [Age-wise Sales Analysis](https://public.tableau.com/views/Book1_17080577257040/Age-wiseSalesAnalysis?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+4. Worksheet 4: [Quantity-Discount Correlation](https://public.tableau.com/views/Book1_17080577257040/Quantity-DiscountCorrelation?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+5. Worksheet 5: [Region-wise Revenue Share(%)](https://public.tableau.com/views/Book1_17080577257040/Region-wiseRevenueShare?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+6. Worksheet 6: [Gender-wise Sales Analysis](https://public.tableau.com/views/Book1_17080577257040/Gender-wiseSalesAnalysis?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+7. Worksheet 7: [Total Revenue](https://public.tableau.com/views/Book1_17080577257040/TotalRevenue?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+8. Dashboard 1: [Customer Analysis](https://public.tableau.com/shared/CJ4PYXJ8B?:display_count=n&:origin=viz_share_link)
+
+The sheets and dashboard can be furthur be used to analyse data as every worksheet of the dashboard is used as a filter.
